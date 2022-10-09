@@ -1,4 +1,4 @@
-package sms_templates
+package sms_template
 
 import "time"
 
