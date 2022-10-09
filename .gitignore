@@ -14,7 +14,5 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-=======
 Dockerfile
 docker-compose.yaml
->>>>>>> c5e4a95 (initial commit)
